@@ -1,0 +1,4 @@
+dans terminal :
+python game.py
+
+contrairement a python3 dans faceFinding
